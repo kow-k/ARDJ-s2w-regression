@@ -17,7 +17,7 @@ NLP27/2021 での発表 P4-4 "Simulationg acceptability judgments using ARDJ dat
 
 以下は参考データ:
 
-2. [resp-s2u-unfiltered.csv](resp-s2u-unfiltered2.csv) [Survey 2 unified のハズレ値除去なし版]
+2. [resp-s2u-unfiltered.csv](resp-s2u-unfiltered.csv) [Survey 2 unified のハズレ値除去なし版]
 3. [resp-s2u-sd-filtered1.csv](resp-s2u-sd-filtered1.csv) [Survey 2 unified のハズレ値除去版1]
 4. [resp-s2u-sd-filtered1.csv](resp-s2u-sd-filtered2.csv) [Survey 2 unified のハズレ値除去版2]
 
